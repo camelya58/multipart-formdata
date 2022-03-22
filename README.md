@@ -58,7 +58,7 @@ public class UploadController {
 
 For Swagger 3.0 this is enought. https://swagger.io/docs/specification/describing-request-body/file-upload/
 
-The whole request will have a common responseBody and you can can your "meta" as an object.
+The whole request will have a common responseBody and you can get your "meta" as an object.
 
 But for Swagger 2.0 the "meta" will be as a parameter which type is "String". https://swagger.io/docs/specification/2-0/file-upload/
 
